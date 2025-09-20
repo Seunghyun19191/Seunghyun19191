@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jungbin
+# Hi there 👋, I'm Seunghyun
 
 ## 🚀 Tech Stack
 
@@ -15,18 +15,18 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=jungbinl&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jungbinl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Seunghyunl&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seunghyunl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungbinl&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seunghyunl&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=jungbinl&theme=tokyonight&row=1&column=6)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Seunghyunl&theme=tokyonight&row=1&column=6)
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jungbin-lee-097b10345/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Seunghyun-lee-097b10345/)
