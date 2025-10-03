@@ -16,11 +16,11 @@
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seunghyunl&layout=compact&theme=tokyonight&hide_border=true)
+
 
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Seunghyunl&theme=tokyonight&row=1&column=6)
+
 
 
 ## 🌐 Socials
